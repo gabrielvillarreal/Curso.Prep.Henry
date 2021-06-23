@@ -1,0 +1,11 @@
+for
+Esta palabra sirve para repetir una cierta cantidad de veces una misma tarea
+
+||
+pongamos una barrera imaginaria: El guarda dejara pasar a vos y tu amigo si alguno de los dos tiene la entrada que él te pide para ingresar
+
+&&
+En el caso del guarda, si esta estos simbolos, solo los dejará pasar si todos tienen la entrada para ingresar. 
+
+!
+Si esta este simbolo, vas a hacer lo opuesto a lo que solicita, aplicas psicologia inversa ;)
