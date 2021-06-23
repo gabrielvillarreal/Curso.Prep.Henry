@@ -1,0 +1,5 @@
+Objetos: Es como un cajon de juguetes, donde podes guardar diferentes cosas
+Propiedades: cada uno de los juguetes
+Métodos: que acciones pueden realizar los juguetes
+Bucle for…in: para repetir acciones, por ejemplo, sacar juguetes del cajon hasta que ya no queden mas
+Notación de puntos vs notación de corchetes: la notacion de puntos es la mas facil y mas usada que la otra notacion.
