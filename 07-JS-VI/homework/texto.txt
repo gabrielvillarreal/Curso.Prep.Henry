@@ -1,0 +1,1 @@
+callback: En las funciones se pueden pasar por parametro otras funciones
