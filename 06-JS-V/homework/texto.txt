@@ -1,0 +1,1 @@
+array: Sirve para guardar en un solo lugar, varias cosas
