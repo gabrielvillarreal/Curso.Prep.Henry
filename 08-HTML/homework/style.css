@@ -1,0 +1,23 @@
+<style>
+            h1{
+                color : #6644f5;
+            }
+            img{
+                width : 400px;
+            }
+            #thirdDiv{
+                height: 600px;
+                width: 500px;
+                color: aquamarine;
+                padding: 50px;
+                border: blue;
+                border-style:dotted;
+                border-width: 3px;
+            }
+            #spanId{
+                font-size: 18px;
+                margin: 50px;
+            }
+                  
+    
+        </style>
